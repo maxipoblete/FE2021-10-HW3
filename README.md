@@ -1,6 +1,6 @@
-# FE2021-10-HW3.2
+# FE2021-10-HW3.3
 ### [ Group Members: Maximiliano Poblete , Lucas Raggio ] 
-## Lastest Update -> For Homework 3.2, check below!
+## Lastest Update -> For Homework 3.3, check below!
 
 # FE2021-10-HW3.1a
 
@@ -80,6 +80,38 @@ The maximum absolute stress component in each mesh was calculated and plotted ac
 ![alt text]( https://github.com/maxipoblete/FE2021-10-HW3/blob/main/NodesVsStresses.png  )
 
 In the previous graph it can be seen that the more nodes the mesh has, the higher the maximum absolute stresses. Furthermore, a convergence in the maximum stresses can be seen as a function of the number of nodes. In order to estimate the convergence of the maximum stresses, it is necessary to make more types of meshes in order to have more points on the curve and the trend of the data can be analyzed with greater accuracy. Finally, the maximum values are found around the hole, therefore, a finer meshing implies that a greater detail of the stresses that are occurring in the hole due to the distributed load of 1 kN is obtained.
+
+# FE2021-10-HW3.3
+![alt text]( https://github.com/maxipoblete/FE2021-10-HW3/blob/main/HW3.3/Images/Homework%203%20-%20Finite%20Elements_Pa%CC%81gina_01.png  )
+
+![alt text]( https://github.com/maxipoblete/FE2021-10-HW3/blob/main/HW3.3/Images/Homework%203%20-%20Finite%20Elements_Pa%CC%81gina_02.png  )
+
+![alt text]( https://github.com/maxipoblete/FE2021-10-HW3/blob/main/HW3.3/Images/Homework%203%20-%20Finite%20Elements_Pa%CC%81gina_03.png  )
+![alt text]( https://github.com/maxipoblete/FE2021-10-HW3/blob/main/HW3.3/Images/Homework%203%20-%20Finite%20Elements_Pa%CC%81gina_04.png  )
+![alt text]( https://github.com/maxipoblete/FE2021-10-HW3/blob/main/HW3.3/Images/Homework%203%20-%20Finite%20Elements_Pa%CC%81gina_05.png  )
+![alt text]( https://github.com/maxipoblete/FE2021-10-HW3/blob/main/HW3.3/Images/Homework%203%20-%20Finite%20Elements_Pa%CC%81gina_06.png  )
+![alt text]( https://github.com/maxipoblete/FE2021-10-HW3/blob/main/HW3.3/Images/Homework%203%20-%20Finite%20Elements_Pa%CC%81gina_07.png  )
+![alt text]( https://github.com/maxipoblete/FE2021-10-HW3/blob/main/HW3.3/Images/Homework%203%20-%20Finite%20Elements_Pa%CC%81gina_08.png  )
+![alt text]( https://github.com/maxipoblete/FE2021-10-HW3/blob/main/HW3.3/Images/Homework%203%20-%20Finite%20Elements_Pa%CC%81gina_09.png  )
+![alt text]( https://github.com/maxipoblete/FE2021-10-HW3/blob/main/HW3.3/Images/Homework%203%20-%20Finite%20Elements_Pa%CC%81gina_10.png  )
+![alt text]( https://github.com/maxipoblete/FE2021-10-HW3/blob/main/HW3.3/Images/Homework%203%20-%20Finite%20Elements_Pa%CC%81gina_11.png  )
+![alt text]( https://github.com/maxipoblete/FE2021-10-HW3/blob/main/HW3.3/Images/Homework%203%20-%20Finite%20Elements_Pa%CC%81gina_12.png  )
+![alt text]( https://github.com/maxipoblete/FE2021-10-HW3/blob/main/HW3.3/Images/Homework%203%20-%20Finite%20Elements_Pa%CC%81gina_13.png  )
+![alt text]( https://github.com/maxipoblete/FE2021-10-HW3/blob/main/HW3.3/Images/Homework%203%20-%20Finite%20Elements_Pa%CC%81gina_14.png  )
+![alt text]( https://github.com/maxipoblete/FE2021-10-HW3/blob/main/HW3.3/Images/Homework%203%20-%20Finite%20Elements_Pa%CC%81gina_15.png  )
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
